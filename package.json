@@ -1,18 +1,17 @@
 {
   "name": "c-programming",
   "version": "1.0.0",
-  "description": "npm node package manager npm init -y -> for init the package",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "ashwin",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "@solana/web3.js": "^1.91.7",
-    "axios": "^1.6.8",
-    "express": "^4.19.2"
+    "@solana/spl-token": "^0.4.6",
+    "@solana/web3.js": "^1.91.7"
   }
 }
